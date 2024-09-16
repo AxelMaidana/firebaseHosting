@@ -22,6 +22,6 @@ export default defineConfig({
   },
 
   build: {
-    outDir: 'build', // Cambia la carpeta de salida a 'build'
+    outDir: 'dist', // Cambia la carpeta de salida a 'build'
   }
 })
